@@ -28,3 +28,22 @@
 [01/Aug/2013 07:00:06] DEBUG [geonode.search.views:207] cached search results 84
 [01/Aug/2013 07:00:06] DEBUG [geonode.search.views:144] generated combined search results in 0.0213038921356, 1.19209289551e-06
 [01/Aug/2013 07:00:06] DEBUG [geonode.search.views:145] with 6 db queries
+[01/Aug/2013 08:49:39] DEBUG [geonode.search.views:207] cached search results 84
+[01/Aug/2013 08:49:39] DEBUG [geonode.search.views:144] generated combined search results in 0.0200660228729, 0.0
+[01/Aug/2013 08:49:39] DEBUG [geonode.search.views:145] with 6 db queries
+[01/Aug/2013 08:55:06] DEBUG [geonode.search.views:207] cached search results 84
+[01/Aug/2013 08:55:06] DEBUG [geonode.search.views:144] generated combined search results in 0.0198111534119, 9.53674316406e-07
+[01/Aug/2013 08:55:06] DEBUG [geonode.search.views:145] with 6 db queries
+[01/Aug/2013 08:55:16] DEBUG [geonode.search.views:144] generated combined search results in 0.000445127487183, 9.53674316406e-07
+[01/Aug/2013 08:55:16] DEBUG [geonode.search.views:145] with 0 db queries
+[01/Aug/2013 08:55:18] DEBUG [geonode.search.views:144] generated combined search results in 0.000417947769165, 0.0
+[01/Aug/2013 08:55:18] DEBUG [geonode.search.views:145] with 0 db queries
+[01/Aug/2013 08:55:19] DEBUG [geonode.search.views:144] generated combined search results in 0.000333070755005, 9.53674316406e-07
+[01/Aug/2013 08:55:19] DEBUG [geonode.search.views:145] with 0 db queries
+[01/Aug/2013 08:55:21] DEBUG [geonode.search.views:207] cached search results 84
+[01/Aug/2013 08:55:21] DEBUG [geonode.search.views:144] generated combined search results in 0.0302729606628, 9.53674316406e-07
+[01/Aug/2013 08:55:21] DEBUG [geonode.search.views:145] with 4 db queries
+[01/Aug/2013 08:55:21] DEBUG [geonode.search.views:144] generated combined search results in 0.000455141067505, 9.53674316406e-07
+[01/Aug/2013 08:55:21] DEBUG [geonode.search.views:145] with 0 db queries
+[01/Aug/2013 08:55:22] DEBUG [geonode.search.views:144] generated combined search results in 0.000322103500366, 9.53674316406e-07
+[01/Aug/2013 08:55:22] DEBUG [geonode.search.views:145] with 0 db queries
